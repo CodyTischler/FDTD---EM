@@ -1,6 +1,5 @@
 
-var count = 0;
-var firstDraw = true;
+
 var mousePx = 0;
 var mousePy = 0;
 var clickPx = 0;
